@@ -1,0 +1,18 @@
+﻿.body{
+    text-align:center;
+}
+.mainarea{
+    display:flex;
+    justify-content: space-around;
+}
+.editors{
+    background-color:aqua;
+    background-image:
+    width:100%;
+}
+textarea{
+    width:200%;
+    min-height:250px;
+    overflow:scroll;
+    font-size: x-large;
+}
